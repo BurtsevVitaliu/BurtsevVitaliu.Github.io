@@ -2,4 +2,4 @@
 
 Homework 
 
-[Сайт №1](BurtsevVitaliu.Github.io/Site1 "Мой первый сайт!")
+[Site1](BurtsevVitaliu.Github.io/Site1 "Мой первый сайт!")
